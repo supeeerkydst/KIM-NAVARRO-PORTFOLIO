@@ -55,8 +55,13 @@
             "vite": "6.3.5"
       },
       "scripts": {
+<<<<<<< HEAD
       "dev": "vite",
       "build": "npx vite build",
       "preview": "vite preview"
+=======
+            "dev": "vite",
+            "build": "npx vite build"
+>>>>>>> 8d80b86650fcd9c03977bed456078ee17c8e32e4
       }
 }
